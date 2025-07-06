@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo Thiago Viana, sou natural do Rio de Janeiro. Estou iniciando no mundo da tecnologia e transição de carreira.
+Me chamo Thiago Viana, sou natural do Rio de Janeiro. Estou iniciando no mundo da tecnologia e transição de carreira. Meu Linkedin "[Thiago Viana](https://www.linkedin.com/in/thiago-viana-10b280311/)" e Instagram "[Thiago Viana](https://www.instagram.com/thiagovianalimaa/)".
 
 ---
 
